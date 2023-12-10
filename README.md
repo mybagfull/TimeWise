@@ -1,5 +1,6 @@
 # TimeWise
 Язык программирования: Kotlin
+
 ОС: android 7+
 
 В папке Documentation/Requirements находятся такие документы как графичекий интерфейс, требования.
